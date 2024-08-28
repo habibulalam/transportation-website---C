@@ -1,0 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.theBanner-bg{
+    background-image: url('./assets/Banner-BG.png');
+    min-height: 500px;
+}
